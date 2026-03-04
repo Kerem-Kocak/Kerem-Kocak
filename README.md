@@ -13,14 +13,31 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
-<img height="180em" src="https://kerem-readme-stats.vercel.app/api?username=Kerem-Kocak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://kerem-readme-stats.vercel.app/api/top-langs/?username=Kerem-Kocak&layout=compact&theme=radical" />
+
+
+### 📊 GitHub Analytics
+<img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=Kerem-Kocak&theme=redical" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kerem-Kocak&theme=radical" />
+
+
+<p>
+  <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### 🚀 Ongoing Projects
 * **Hotel Reservation System:** A full-stack Python & MySQL application for managing bookings and database normalization.
