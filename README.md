@@ -29,7 +29,8 @@
 
 
 ### 🚀 Ongoing Projects
-* **Hotel Reservation System:** A full-stack Python & MySQL application for managing bookings and database normalization.
+* **An Improved Solution Approach for the Pickup and Delivery Problem with Transshipments:** A hybrid solver for the Pickup and Delivery Problem with Transshipments (PDPT) and the time-windowed variant (PDPTWT).The scope covers parsing benchmark instances,constructing feasible routes with direct or transfer service and improving them via local search and ruin and recreate refinement.
+
 * **Financial Data Pipeline:** An automated Python & MySQL pipeline that extracts live cryptocurrency market data via the Blockchair REST API and stores it in a normalized database, featuring a Streamlit dashboard, Docker support, and CI/CD.
 
 ### 📫 Connect with me
