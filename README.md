@@ -31,14 +31,7 @@
 
 
 ### 📊 GitHub Analytics
-<img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=Kerem-Kocak&theme=redical" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kerem-Kocak&theme=radical" />
-
-
-<p>
-  <img src="https://img.shields.io/badge/C++-70%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
