@@ -28,13 +28,6 @@
 ---
 
 
-
-
-### 📊 GitHub Analytics
-
-  <img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
 ### 🚀 Ongoing Projects
 * **Hotel Reservation System:** A full-stack Python & MySQL application for managing bookings and database normalization.
 * **Financial Data Pipeline:** An automated Python & MySQL pipeline that extracts live cryptocurrency market data via the Blockchair REST API and stores it in a normalized database, featuring a Streamlit dashboard, Docker support, and CI/CD.
